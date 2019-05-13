@@ -1,0 +1,14 @@
+
+In het 2de Bachelor jaar realiseren de studenten een Wetenschappelijk Project, 
+waarbij ze in teamverband -en naar eigen keuze- een praktisch probleem uitwerken.
+Op deze foto zien we een "LED Cube": deze kubus structuur geeft audio/muziek visueel weer in de 3 assen, 
+namelijk de tijd, de amplitude en de frequentie van geluidssignalen.
+
+(Meer info/vervolg...: Met behulp van een microfoon worden audiosignalen opgevangen. 
+Deze worden verzonden naar een Arduino chip die het signaal filtert in verschillende frequentiebanden (mid, high, low,...). 
+Vervolgens worden deze omgezet naar signalen voor de LED's welke naar het eerste vlak van de kubus gestuurd worden. 
+Hierop worden dan de amplitudes (sterktes) van de verschillende frequentiebanden weergegeven. 
+Dit vlak laten we dan propageren in de tijd waardoor een golfeffect gecreëerd wordt.
+De LED Cube geeft dus een mooie visuele animatie weer van de opgenomen geluidssignalen)
+
+
